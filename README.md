@@ -4,8 +4,8 @@ A central repository for my verified academic and professional credentials.
 
 ## 🎓 Featured Credentials
 
-| Year | Credential | Issuing Organization | Field 
-| :--- | :--- | :--- | :--- | :--- |
+| Year | Credential | Issuing Organization | Field |
+| :--- | :--- | :--- | :--- | 
 | 2025 | Financial Engineering & Risk Management | Columbia University | Finance & Analytics |
 | 2024 | Power BI Data Analyst Associate (PL-300) | Microsoft | Data Analytics | 
 | 2024 | Google Data Analytics Professional | Google | Data Analytics | 
